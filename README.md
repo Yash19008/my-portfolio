@@ -46,34 +46,6 @@ A full-stack personal portfolio web application built using the MERN stack (Mong
 
 ---
 
-## 📁 Folder Structure
-
-\`\`\`
-root/
-│
-├── client/                 # React frontend
-│   ├── public/
-│   └── src/
-│       ├── components/
-│       ├── pages/
-│       ├── assets/
-│       ├── App.js
-│       └── index.js
-│
-├── server/                 # Node.js backend
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   ├── config/
-│   └── index.js
-│
-├── .env
-├── package.json
-└── README.md
-\`\`\`
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
